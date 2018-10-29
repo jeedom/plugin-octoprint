@@ -435,16 +435,19 @@ class octoprintCmd extends cmd {
 					$urlprinter = 'http://' . $servip . '/api/system/commands/core/shutdown';
 					$request_http = new com_http($urlprinter);
 					$request_http->setHeader(array('Content-Type: application/json','X-Api-Key: '.$apikey));
+					$request_http->setPost('{"source":"core","action":"shutdown"}');
 				break;
 				case 'reboot':
-					$urlprinter = 'http://' . $servip . '/api/system/commands/core/restart';
+					$urlprinter = 'http://' . $servip . '/api/system/commands/core/reboot';
 					$request_http = new com_http($urlprinter);
 					$request_http->setHeader(array('Content-Type: application/json','X-Api-Key: '.$apikey));
+					$request_http->setPost('{"source":"core","action":"reboot"}');
 				break;
 				case 'restart':
 					$urlprinter = 'http://' . $servip . '/api/system/commands/core/restart';
 					$request_http = new com_http($urlprinter);
 					$request_http->setHeader(array('Content-Type: application/json','X-Api-Key: '.$apikey));
+					$request_http->setPost('{"source":"core","action":"restart"}');
 				break;
 			}
 			$result=$request_http->exec();
