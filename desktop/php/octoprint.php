@@ -2,9 +2,9 @@
 if (!isConnect('admin')) {
     throw new Exception('{{401 - Accès non autorisé}}');
 }
-
-sendVarToJS('eqType', 'octoprint');
-$eqLogics = eqLogic::byType('octoprint');
+$plugin = plugin::byId('octoprint');
+sendVarToJS('eqType', $plugin->getId());
+$eqLogics = eqLogic::byType($plugin->getId());
 ?>
 <div class="row row-overflow">
 	<div class="col-xs-12 eqLogicThumbnailDisplay">
