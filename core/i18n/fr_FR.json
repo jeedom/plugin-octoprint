@@ -1,16 +1,11 @@
 {
-    "desktop\/modal\/health.php": {
+    "plugins\/octoprint\/desktop\/modal\/health.php": {
         "Module": "Module",
         "ID": "ID",
         "IP": "IP",
         "Date création": "Date création"
     },
-    "desktop\/js\/octoprint.js": {
-        "Santé octoprint": "Santé octoprint",
-        "Afficher": "Afficher",
-        "Tester": "Tester"
-    },
-    "desktop\/php\/octoprint.php": {
+    "plugins\/octoprint\/desktop\/php\/octoprint.php": {
         "401 - Accès non autorisé": "401 - Accès non autorisé",
         "Gestion": "Gestion",
         "Ajouter": "Ajouter",
@@ -39,7 +34,12 @@
         "Options": "Options",
         "Action": "Action"
     },
-    "core\/class\/octoprint.class.php": {
+    "plugins\/octoprint\/desktop\/js\/octoprint.js": {
+        "Santé octoprint": "Santé octoprint",
+        "Afficher": "Afficher",
+        "Tester": "Tester"
+    },
+    "plugins\/octoprint\/core\/class\/octoprint.class.php": {
         "Cible ' . $key": "Cible ' . $key",
         "Actuelle ' . $key": "Actuelle ' . $key",
         "Statut": "Statut",
