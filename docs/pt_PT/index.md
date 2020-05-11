@@ -27,9 +27,9 @@ commandes.
 
 -   **Nome de equipamentos** : nome do seu equipamento
 
--   **Activer** : torna seu equipamento ativo
+-   **Ativar** : torna seu equipamento ativo
 
--   **Visible** : torna visível no painel
+-   **Visivél** : torna visível no painel
 
 -   **Objeto pai** : indica o objeto pai ao qual pertence
     o equipamento

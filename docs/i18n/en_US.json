@@ -10,7 +10,9 @@
         " Initialisation?": " Initialization?",
         "Initialisation ": "Initialization ",
         "[Initialisation": "[Initialization",
-        "Initialisation]": "Initialization]"
+        "Initialisation]": "Initialization]",
+        "*Initialisation": "*Initialization",
+        "Initialisation*": "Initialization*"
     },
     "index.md": {
         "Ce plugin permet de monitorer et exécuter quelques actions sur vos serveurs d'impression 3D": "This plugin allows you to monitor and execute some actions on your 3D print servers",
@@ -51,20 +53,28 @@
         "commandes ": "Commands ",
         "[commandes": "[Commands",
         "commandes]": "Commands]",
+        "*commandes": "*Commands",
+        "commandes*": "Commands*",
         " Activer.": " Activate.",
         " Activer?": " Activate?",
         "Activer ": "Activate ",
         "[Activer": "[Activate",
         "Activer]": "Activate]",
+        "*Activer": "*Activate",
+        "Activer*": "Activate*",
         " Visible.": " Visible.",
         " Visible?": " Visible?",
         "Visible ": "Visible ",
         "[Visible": "[Visible",
         "Visible]": "Visible]",
+        "*Visible": "*Visible",
+        "Visible*": "Visible*",
         " Apikey.": " Apikey.",
         " Apikey?": " Apikey?",
         "Apikey ": "Apikey ",
         "[Apikey": "[Apikey",
-        "Apikey]": "Apikey]"
+        "Apikey]": "Apikey]",
+        "*Apikey": "*Apikey",
+        "Apikey*": "Apikey*"
     }
 }

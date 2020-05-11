@@ -27,7 +27,7 @@ commandes.
 
 -   **Name of equipment** : name of your equipment
 
--   **Activer** : makes your equipment active
+-   **Activate** : makes your equipment active
 
 -   **Visible** : makes it visible on the dashboard
 

@@ -27,7 +27,7 @@ commandes.
 
 -   **Nombre del equipo** : nombre de su equipo
 
--   **Activer** : activa su equipo
+-   **Activar** : activa su equipo
 
 -   **Visible** : lo hace visible en el tablero
 
@@ -42,6 +42,6 @@ commandes.
 -   **Pestaña de pedidos** :
 
 -   Hay muchos comandos. No todos se muestran por defecto. Puede cambiarles el nombre, mostrarlos o no reorganizarlos. 
-También puede asignar un widget de su elección.. Todo es estándar. En cuanto a las acciones no agregaré más de lo que ya puse.
+También puede asignar un widget de su elección. Todo es estándar. En cuanto a las acciones no agregaré más de lo que ya puse.
 Para mí está fuera de lugar que un escenario mal hecho comience a calentar su impresora a las 4 am a 250 ° C.
 

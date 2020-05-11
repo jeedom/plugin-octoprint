@@ -27,9 +27,9 @@ commandes.
 
 -   **Name der Ausrüstung** : Name Ihrer Ausrüstung
 
--   **Activer** : macht Ihre Ausrüstung aktiv
+-   **Aktivieren** : macht Ihre Ausrüstung aktiv
 
--   **Visible** : macht es auf dem Dashboard sichtbar
+-   **Sichtbar** : macht es auf dem Dashboard sichtbar
 
 -   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
     Ausrüstung
