@@ -1,5 +1,6 @@
 {
     "changelog.md": {
+        "Changelog Octoprint": "Changelog Octoprint",
         "23\/10\/2019": "23\/10\/2019",
         "Support php 7.3": "Suporte PHP 7.3",
         "Support jeedom v4": "Suporte Jeedom v4",
