@@ -62,5 +62,8 @@
         "Eteindre le serveur": "Apaga el servidor",
         "Reboot le serveur": "Reiniciar el servidor",
         "Relancer Octoprint": "Relanzar Octoprint"
+    },
+    "info.json": {
+        "Plugin pour monitorer vos serveurs d'impression 3D": "Plugin para monitorear sus servidores de impresión 3D"
     }
 }

@@ -62,5 +62,8 @@
         "Eteindre le serveur": "Schalten Sie den Server aus",
         "Reboot le serveur": "Starten Sie den Server neu",
         "Relancer Octoprint": "Starten Sie Octoprint neu"
+    },
+    "info.json": {
+        "Plugin pour monitorer vos serveurs d'impression 3D": "Plugin zur Überwachung Ihrer 3D-Druckserver"
     }
 }
